@@ -6,3 +6,4 @@ docker pull nabeel8283/simple-python-flask-app
 
 # Run the Docker image as a container
 docker run -d -p 5000:5000 nabeel8283/simple-python-flask-app
+
